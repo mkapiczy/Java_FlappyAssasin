@@ -1,0 +1,17 @@
+Mix : 30
+
+Mix : 14
+Mix : 0
+Mix : 8
+Mix : 0
+Mix : 0
+Mix : 0
+sas : 10
+sas : 0
+as : 12
+as : 1
+asap : 15
+asap : 0
+WERS : 21
+WERS : 0
+SD : 1
